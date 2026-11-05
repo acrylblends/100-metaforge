@@ -1,6 +1,6 @@
 # MetaForge
 
-> Concept: Build the tools that build software.
+A developer workbench for editing a DSL, compiling it into an app scaffold and inspecting build outputs.
 
 An ACRYL Blends blueprint for the **Meta-software** category (`acrylblends.metaforge`, category 100 of 100).
 
